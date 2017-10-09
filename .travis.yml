@@ -9,3 +9,4 @@ script:
   # Basic role syntax check
   - hostname
   - ip a
+  - curl -L http://icanhazip.com/
