@@ -14,3 +14,4 @@ addons:
 script:
   # Basic role syntax check
   - hostname
+  - ip a
